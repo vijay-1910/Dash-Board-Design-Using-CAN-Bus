@@ -226,9 +226,9 @@ LEFT / RIGHT / OFF
  
 ## 👨‍💻 Project By 
  
-Sudheer Pulusuganti 
+Vijay Durga Gundubilli
  
-B.Tech – Electronics and Communication Engineering 
+B.Tech – Electrical and Electronics Engineering 
  
 Vector India Major Project 
  
